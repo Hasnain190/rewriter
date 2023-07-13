@@ -25,13 +25,14 @@ Rewriter is a web application that allows users to rewrite articles.It uses chat
    - For Windows: `venv\Scripts\activate`
    - For Unix/Linux: `source venv/bin/activate`
 1. Install the dependencies: `pip install -r requirements.txt`
+1. finally `python app.py`
 1. Install Node.js and npm if you haven't already.
 1. Navigate to the `frontend` directory: `cd frontend`
 1. Install the frontend dependencies: `npm install`
 
 ## Configuration
 
-1. Open the `.env` file and modify the configuration values if needed.
+1. Open the `.env` file and modify the configuration values(openai key) if needed.
 
 ## Usage
 
